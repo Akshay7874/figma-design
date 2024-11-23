@@ -1,0 +1,24 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(30, 32, 38);
+    color: white;
+    height: Hug (52px)px;
+    gap: 0px;
+    top: 0;
+    position: sticky;
+    width: 100%;
+    opacity: 0px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.c1 {
+    display: flex;
+    gap: 5px;
+}
+
+.c2 {
+    display: flex;
+    gap: 10px;
+}
